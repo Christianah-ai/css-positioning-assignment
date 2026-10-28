@@ -1,0 +1,234 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+    background-color: black;
+    color: aliceblue;
+}
+ img{
+    width: 300px;
+    position:  absolute;
+    top: 150px;
+    left: 500px;
+
+ }
+ .one{
+    position: absolute;
+    top: 20%;
+    left: 34%;
+ strong {
+    font-size: 20px;
+    color:lightskyblue;
+    
+    padding: 15px;
+    /* position: absolute; */
+ 
+
+ }
+ small{
+    display: block;
+    color: azure;
+     /* position: absolute; */
+
+    
+ }
+}
+
+.two{
+     position: absolute;
+     top: 35%;
+    left: 29%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+           padding: 15px;
+ }
+ small{
+    display: block;
+    color: azure;
+    
+ }
+}
+
+.three{
+    position: absolute;
+     top: 48%;
+    left: 28%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+          padding: 15px;
+ }
+ small{
+    display: block;
+    color: azure;
+    
+ }
+}
+
+.four{
+     position: absolute;
+     top: 59%;
+    left: 29%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+          padding: 15px;
+ 
+ }
+ small{
+    display: block;
+    color: azure;
+     
+    
+ }
+}
+
+.five{
+    position: absolute;
+     top: 73%;
+    left: 32%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+          padding: 15px;
+ }
+ small{
+    display: block;
+    color: azure;
+    
+ }
+}
+
+.six{
+    position: absolute;
+     top: 20%;
+    left: 62%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+         padding: 15px;
+
+ }
+ small{
+    display: block;
+    color: azure;
+    
+
+    
+ }
+}
+
+.seven{
+     position: absolute;
+     top: 35%;
+    left: 65%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+         padding: 15px;
+
+ }
+ small{
+    display: block;
+    color: azure;
+
+
+ }
+}
+
+.eight{
+     position: absolute;
+     top: 48%;
+    left: 66%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+         padding: 15px;
+
+ }
+ small{
+    display: block;
+    color: azure;
+
+
+    
+ }
+}
+
+
+.nine{
+    position: absolute;
+     top: 59%;
+    left: 65%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+         padding: 15px;
+      
+ }
+ small{
+    display: block;
+    color: azure;
+
+
+
+    
+ }
+}
+
+
+.ten{
+     position: absolute;
+     top: 73%;
+    left: 63%;
+    strong {
+        font-size: 20px;
+         color:lightskyblue;
+         padding: 15px;
+ }
+ small{
+    display: block;
+    color: azure;
+    
+    
+ }
+}
+
+.search-container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+
+input {
+    top: 400px;
+    left: 480px;
+    /* bottom: 90px; */
+    position: absolute;
+    padding: 15px;
+    width: 400px;
+    background: transparent;
+    border: 2px solid blue;
+    color: white;
+}
+
+button {
+   padding: 15px;
+   position: absolute;
+    background: blue;
+    top: 85%;
+    /* left: 65%; */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+
+    
+
