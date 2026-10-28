@@ -204,9 +204,8 @@
 }
 
 input {
-    top: 400px;
-    left: 480px;
-    /* bottom: 90px; */
+   top: 83%;
+   left: 38%;
     position: absolute;
     padding: 15px;
     width: 400px;
@@ -219,8 +218,8 @@ button {
    padding: 15px;
    position: absolute;
     background: blue;
-    top: 85%;
-    /* left: 65%; */
+    top: 95%;
+    left: 45%;
     color: white;
     border: none;
     cursor: pointer;
